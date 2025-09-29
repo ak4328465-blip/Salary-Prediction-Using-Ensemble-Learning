@@ -1,0 +1,21 @@
+YearsExperience,Education,JobRole,Location,Salary
+1,Bachelors,Developer,Bangalore,350000
+3,Masters,Data Scientist,Delhi,750000
+5,Bachelors,Software Engineer,Mumbai,650000
+2,Masters,Developer,Hyderabad,450000
+7,PhD,Data Scientist,Bangalore,1200000
+10,Bachelors,Manager,Delhi,1500000
+4,Masters,Software Engineer,Pune,700000
+6,Bachelors,Developer,Chennai,800000
+8,Masters,Data Scientist,Mumbai,1400000
+12,PhD,Manager,Bangalore,2000000
+15,Bachelors,Developer,Delhi,400000
+9,Masters,Data Scientist,Hyderabad,950000
+11,PhD,Manager,Mumbai,1800000
+13,Masters,Software Engineer,Pune,720000
+20,PhD,Manager,Chennai,2200000
+18,Bachelors,Developer,Bangalore,500000
+14,Masters,Data Scientist,Delhi,1300000
+16,Bachelors,Software Engineer,Pune,680000
+19,PhD,Manager,Mumbai,2100000
+22,Masters,Developer,Hyderabad,600000
